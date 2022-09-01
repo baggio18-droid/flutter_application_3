@@ -3,21 +3,26 @@
 - Praktikum 1: Adding Gesture Dectetor
 
 =>On Tap: Click once to add increment
-![OnTap](images/OnTap.png)
+
+![OnTap](images/OnTap.PNG)
 
 =>On Double Tap: Click twice to add increment
-![OnDoubleTap](images/OnDoubleTap.png)
+
+![OnDoubleTap](images/OnDoubleTap.PNG)
 
 =>On Long Press: Click a long time to add increment
-![OnLongPress](images/OnLongPress.png)
+
+![OnLongPress](images/OnLongPress.PNG)
 
 - Praktikum 2: Adding Forms to input Text
 => Validation
 
-![NoInput](images/NoInput.png)
+>>No text input
 
-![TextInput](images/TextInput.png)
+![NoInput](images/NoInput.PNG)
+
+![TextInput](images/TextInput.PNG)
 
 - Praktikum 3: Custom Input and adding FormField Widget
 
-![InputField](images/InputField.png)
+![InputField](images/InputField.PNG)
