@@ -1,16 +1,23 @@
-# flutter_application_3
+# flutter_application_3 - Baggio Deroger
 
-A new Flutter project.
+- Praktikum 1: Adding Gesture Dectetor
 
-## Getting Started
+=>On Tap: Click once to add increment
+![OnTap](images/OnTap.png)
 
-This project is a starting point for a Flutter application.
+=>On Double Tap: Click twice to add increment
+![OnDoubleTap](images/OnDoubleTap.png)
 
-A few resources to get you started if this is your first Flutter project:
+=>On Long Press: Click a long time to add increment
+![OnLongPress](images/OnLongPress.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Praktikum 2: Adding Forms to input Text
+=> Validation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![NoInput](images/NoInput.png)
+
+![TextInput](images/TextInput.png)
+
+- Praktikum 3: Custom Input and adding FormField Widget
+
+![InputField](images/InputField.png)
